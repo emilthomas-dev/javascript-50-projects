@@ -23,7 +23,7 @@ This repository contains 50 JavaScript projects that I am building from Beginner
 
 ### Level 1 – Basics
 
-- [ ] Project 01 – Number Guessing Game
+- [x] Project 01 – Number Guessing Game
 - [ ] Project 02 – Temperature Converter
 - [ ] Project 03 – Age Calculator
 - [ ] Project 04 – BMI Calculator
@@ -48,8 +48,8 @@ This repository contains 50 JavaScript projects that I am building from Beginner
 
 ## 📈 Progress
 
-- Completed: 0 / 50
-- Current Project: Project 01 – Number Guessing Game
+- Completed: 1 / 50
+- Current Project: Project 01 –  Temperature Converter
 
 ## 👨‍💻 Author
 
